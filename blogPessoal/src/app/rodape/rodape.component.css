@@ -6,22 +6,23 @@ ul.social-network{
 ul.social-network li{
     display: inline;
     margin: 0;
-    padding: 5%;
+    padding: 5px;
 }
 
 .fa{
     font-size: 35pt;
     color: white;
-    padding: 10%;
+    padding: 10px;
 }
 
 .fa-facebook-square:hover{
-    color: blue;
+    color: #3b5998;
 }
 
 .fa-instagram:hover{
-    color: crimson;
+    color: #C13584;
 }
+
 .fa-linkedin-square:hover{
-    color: aqua;
+    color: #0072b1;
 }
